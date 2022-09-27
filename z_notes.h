@@ -2,14 +2,6 @@
 #define Z_NOTES_H
 
 
-//OJOJ GRAPH CLASS TAKE THE POINTS AND DRAW IN THE SCREEN OJO
-//ESTO ESTA EN LA MIERCOLES
-
-
-//No podia encontrar el text file toca eliminar una parte del
-//directory para q aparezca en el debug folder ojojojojojojo
-
-
 //------------------------------------------
 //   Definitions
 //------------------------------------------
